@@ -1,0 +1,278 @@
+#header1{
+    background-color: brown;
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    height: 40px;
+    top: -3px;
+    z-index: 3;
+}
+
+#mainfacebook1{
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+#mainfacebook1:hover{
+    opacity: 0.5;
+}
+
+#maininsta1{
+    position: absolute;
+    top: 9px;
+    left: 70px;
+}
+
+#maininsta1:hover{
+    opacity: 0.5;
+}
+
+#mainpinter1{
+    position: absolute;
+    top: 9px;
+    left: 110px;
+}
+
+#mainpinter1:hover{
+    opacity: 0.5;
+}
+
+.textchanging-header{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: -5px;
+    font-size: medium;
+    left: 820px;
+}
+
+#Faq{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    text-decoration: none;
+    top: 11px;
+    left: 1680px;
+}
+
+#currency{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    text-decoration: none;
+    top: 12px;
+    width: 8.5%;
+    left: 1725px;
+}
+
+#header2{
+    background-color: rgb(227, 227, 227);
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    height: 70px;
+    top: 36px;
+    z-index: 3;
+}
+
+#ul1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: left;
+}
+
+#shop1{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color:#020203;
+}
+
+#story1{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color:#020203;
+}
+
+#thanksgiving1{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color:#020203;
+}
+
+#sale1{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color:#020203;
+}
+
+#ul1{
+    position: absolute;
+    top: 10px;
+    left: 24px;
+}
+
+#logo1{
+    position: absolute;
+    top: 2px;
+    left: 805px;
+}
+
+#img1main{
+    position: absolute;
+    top: 60px;
+    z-index: -1;
+    left: -20px;
+}
+
+#mainthing{
+    position: absolute;
+    left: 1500px;
+    top: 8px;
+}
+
+#logintext1{
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    width: 140%;
+    position: absolute;
+    top: -5px;
+    left: 37px;
+}
+
+#cart1{
+    position: absolute;
+    left: 1650px;
+    top: 10px;
+    text-decoration: none;
+}
+
+#carttext1{
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    width: 140%;
+    position: absolute;
+    top: -5px;
+    left: 37px;
+}
+
+.iconthing1{
+    position: absolute;
+    top: 600px;
+    left: 1100px;
+}
+
+.iconthing2{
+    position: absolute;
+    top: 600px;
+    left: 900px;
+}
+
+.iconthing3{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+
+.elizaphoto{
+    position: absolute;
+    top: 160px;
+    left: 300px;
+}
+
+.titleshop{
+    position: absolute;
+    font-size: larger;
+    top: 135px;
+    left: 980px;
+}
+
+.price1{
+    position: absolute;
+    top: 190px;
+    left: 985px;
+}
+
+.creator1{
+    position: absolute;
+    top: 225px;
+    left: 985px;
+}
+
+#hello5 a{
+    color: black;
+}
+
+.cartbtn{
+    position: absolute;
+    background-color: brown;
+    width: 420px;
+    height: 50px;
+    top: 325px;
+    left: 975px;
+    color: white;
+}
+
+.cartbtn:hover{
+    cursor: pointer;
+}
+
+
+.cartbtn a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    position: absolute;
+    left: 150px;
+    top: 13px;
+}
+
+.cartbtn2{
+    position: absolute;
+    background-color: rgb(71, 65, 177);
+    width: 420px;
+    height: 50px;
+    top: 400px;
+    left: 975px;
+    color: white;
+}
+
+.cartbtn2:hover{
+    cursor: pointer;
+}
+
+
+.cartbtn2 a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    position: absolute;
+    left: 150px;
+    top: 13px;
+}
+
+.nraa{
+    position: absolute;
+    top: 470px;
+    left: 980px;
+    color: brown;
+}
+
+.rimage__image fade-in lazyautosizes lazyloaded{
+    position: absolute;
+    top: 499px;
+}
+
+.paymentmethods{
+    position: absolute;
+    top: 530px;
+    left: 960px;
+}
